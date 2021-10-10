@@ -1,0 +1,40 @@
+{
+  "name": "frustration",
+  "version": "0.1.0",
+  "description": "Most dreaded utility functions! No more frustration...",
+  "main": "frustration.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "dev": "nodemon frustration.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atul-Kumar-Official/Frustration.git"
+  },
+  "keywords": [
+    "library",
+    "frustration",
+    "utility",
+    "javascript",
+    "functions",
+    "string",
+    "array",
+    "collections",
+    "maps",
+    "numbers",
+    "buffers",
+    "streams"
+  ],
+  "author": "Atul Kumar <akumarofficial4224@gmail.com> (https://www.github.com/Atul-Kumar-Official)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Atul-Kumar-Official/Frustration/issues"
+  },
+  "homepage": "https://github.com/Atul-Kumar-Official/Frustration#readme",
+  "devDependencies": {
+    "arrayism": "1.16.0",
+    "eslint": "8.0.0",
+    "jest": "27.2.5",
+    "stringo": "1.0.0"
+  }
+}
