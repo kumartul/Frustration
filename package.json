@@ -1,6 +1,6 @@
 {
   "name": "frustration",
-  "version": "1.1.0",
+  "version": "2.1.0",
   "description": "Most dreaded utility functions! No more frustration...",
   "main": "frustration.js",
   "scripts": {
@@ -32,9 +32,11 @@
   },
   "homepage": "https://github.com/Atul-Kumar-Official/Frustration#readme",
   "devDependencies": {
-    "arrayism": "1.16.0",
     "eslint": "8.0.0",
-    "jest": "27.2.5",
+    "jest": "27.2.5"
+  },
+  "dependencies": {
+    "arrayism": "1.16.0",
     "stringo": "1.0.0"
   }
 }
