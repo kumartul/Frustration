@@ -1,6 +1,6 @@
 {
   "name": "frustration",
-  "version": "2.1.1",
+  "version": "3.1.1",
   "description": "Most dreaded utility functions! No more frustration...",
   "main": "frustration.js",
   "scripts": {
@@ -37,6 +37,6 @@
   },
   "dependencies": {
     "arrayism": "1.16.0",
-    "stringo": "1.0.0"
+    "stringo": "1.0.1"
   }
 }
