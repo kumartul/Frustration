@@ -12,10 +12,9 @@ npm install --save frustration
 In Node.js
 ```bash
 const Frustration = require('frustration');
-const fn = new Frustration();
 
-const fna = fn.array;
-const fns = fn.string;
+const fna = Frustration.array;
+const fns = Frustration.string;
 ```
 
 To run the tests:
@@ -29,6 +28,6 @@ npm test
 If you want to contribute to Frustration , read [this](https://github.com/Atul-Kumar-Official/Frustration/blob/master/CONTRIBUTING.md)
 
 ## NOTICE
-The documentation for Frustration  will be available very soon and I will try to bring out the support for web browsers too very soon!!! 🎉
+The documentation for Frustration  will be available very soon and I will try to bring out the support for ES6 modules too very soon!!! 🎉
 
 ---
