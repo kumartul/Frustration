@@ -26,7 +26,13 @@ class Frustration{
 			sortChars: so.sortChars,
 			sortWords: so.sortWords,
 			unique: so.unique,
-			words: so.words
+			words: so.words,
+			isAlnum: so.isAlnum,
+			isAlpha: so.isAlpha,
+			isDigit: so.isDigit,
+			isLower: so.isLower,
+			isUpper: so.isUpper,
+			isSentence: so.isSentence
 		}
 		this.array = {
 			changeCase: asm.changeCase,
