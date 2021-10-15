@@ -10,7 +10,7 @@ npm install --save frustration
 ## Using Frustration
 
 In Node.js
-```bash
+```js
 const Frustration = require('frustration');
 
 const fna = Frustration.array;
