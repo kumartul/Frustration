@@ -68,7 +68,8 @@ const array = {
 	unique: Arrayism.unique,
 	unzipObj: Arrayism.unzipObj,
 	walk: Arrayism.walk,
-	zipObj: Arrayism.zipObj
+	zipObj: Arrayism.zipObj,
+	dimension: Arrayism.dimension
 }
 
 module.exports.string = string;
