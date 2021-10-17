@@ -36,7 +36,7 @@
     "jest": "27.2.5"
   },
   "dependencies": {
-    "arrayism": "2.18.1",
+    "arrayism": "3.18.1",
     "stringo": "2.7.1"
   }
 }
