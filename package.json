@@ -1,6 +1,6 @@
 {
   "name": "frustration",
-  "version": "5.8.1",
+  "version": "6.8.1",
   "description": "Most dreaded utility functions! No more frustration...",
   "main": "frustration.js",
   "scripts": {

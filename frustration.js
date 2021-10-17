@@ -45,7 +45,7 @@ const array = {
 	dsort: Arrayism.sort.dsort,
 	filter: Arrayism.filter,
 	flatten: Arrayism.flatten,
-	get: Arrayism.get,
+	getValues: Arrayism.getValues,
 	getArrayInfo: Arrayism.getArrayInfo,
 	getPiece: Arrayism.getPiece,
 	insertAfter: Arrayism.insert.insertAfter,
