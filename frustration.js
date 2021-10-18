@@ -27,7 +27,13 @@ const string = {
 	isDigit: Stringo.isDigit,
 	isLower: Stringo.isLower,
 	isUpper: Stringo.isUpper,
-	isSentence: Stringo.isSentence
+	isSentence: Stringo.isSentence,
+	filter: Stringo.filter,
+	addSlashes: Stringo.addSlashes,
+	stripSlashes: Stringo.stripSlashes,
+	md5: Stringo.md5,
+	sha1: Stringo.sha1,
+	pySlice: Stringo.pySlice
 }
 
 const array = {
