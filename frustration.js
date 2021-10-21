@@ -77,8 +77,7 @@ const array = {
 	type: Arrayism.type,
 	unique: Arrayism.unique,
 	unzipObj: Arrayism.unzipObj,
-	walk: Arrayism.walk,
-	zipObj: Arrayism.zipObj,
+	zipObj: Arrayism.zipObj
 }
 
 module.exports.string = string;
