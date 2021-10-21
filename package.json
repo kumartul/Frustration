@@ -37,6 +37,6 @@
   },
   "dependencies": {
     "arrayism": "3.18.1",
-    "stringo": "2.13.2"
+    "stringo": "2.16.0"
   }
 }
