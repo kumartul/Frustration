@@ -33,7 +33,10 @@ const string = {
 	stripSlashes: Stringo.stripSlashes,
 	md5: Stringo.md5,
 	sha1: Stringo.sha1,
-	pySlice: Stringo.pySlice
+	pySlice: Stringo.pySlice,
+	opposite: Stringo.opposite,
+	position: Stringo.position,
+	value: Stringo.value
 }
 
 const array = {
